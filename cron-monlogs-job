@@ -1,0 +1,1 @@
+59 23 * * 4 /usr/bin/python3 /home/user/Desktop/Monitored_logs/failed_login_report.py
