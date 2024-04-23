@@ -6,7 +6,7 @@ import os
 log_file_path = "/var/log/apache2/access.log"
 
 # Report file path
-report_file_path = "/path/to/failed_login_report.txt"
+report_file_path = "/home/user/Desktop/Monitored_logs/failed_login_report.txt"
 
 # Regular expression pattern for failed logins
 failed_login_pattern = r'(\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}) - - \[(.*?)\] "(GET|POST|PUT|DELETE|HEAD|OPTIONS) (\S+) HTTP/\d\.\d" (401|403|404|500|502)'
